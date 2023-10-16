@@ -125,12 +125,30 @@
       "latitude": 48.8566,
       "longitude": 2.3522
    },
+   "europe-west10":{
+      "name":"Berlin, Germany",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+      "latitude": 52.5064,
+      "longitude": 13.1126
+   },
    "europe-west12":{
       "name":"Turin, Italy",
       "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
       "latitude": 45.0703,
       "longitude": 7.6869
    },
+   "me-central1":{
+      "name":"Doha, Qatar",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "latitude": 25.2854,
+      "longitude": 51.5310
+   },
+   "me-central2":{
+      "name":"Dammam, Kingdom of Saudi Arabia",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "latitude": 26.4206,
+      "longitude": 50.0887
+   },  
    "me-west1":{
       "name":"Tel Aviv, Isral",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
