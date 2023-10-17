@@ -131,6 +131,12 @@
       "latitude": 45.0703,
       "longitude": 7.6869
    },
+   "me-central1":{
+      "name":"Doha, Qatar",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "latitude": 25.354826,
+      "longitude": 51.183884
+   },
    "me-west1":{
       "name":"Tel Aviv, Isral",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
